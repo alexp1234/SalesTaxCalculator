@@ -1,0 +1,9 @@
+C:\Users\Ajpic\source\repos\DealerOnSalesTax\DealerOnSalesTax\bin\Debug\net45\DealerOnSalesTax.exe.config
+C:\Users\Ajpic\source\repos\DealerOnSalesTax\DealerOnSalesTax\bin\Debug\net45\DealerOnSalesTax.exe
+C:\Users\Ajpic\source\repos\DealerOnSalesTax\DealerOnSalesTax\bin\Debug\net45\DealerOnSalesTax.pdb
+C:\Users\Ajpic\source\repos\DealerOnSalesTax\DealerOnSalesTax\obj\Debug\net45\DealerOnSalesTax.csprojAssemblyReference.cache
+C:\Users\Ajpic\source\repos\DealerOnSalesTax\DealerOnSalesTax\obj\Debug\net45\DealerOnSalesTax.AssemblyInfoInputs.cache
+C:\Users\Ajpic\source\repos\DealerOnSalesTax\DealerOnSalesTax\obj\Debug\net45\DealerOnSalesTax.AssemblyInfo.cs
+C:\Users\Ajpic\source\repos\DealerOnSalesTax\DealerOnSalesTax\obj\Debug\net45\DealerOnSalesTax.csproj.CoreCompileInputs.cache
+C:\Users\Ajpic\source\repos\DealerOnSalesTax\DealerOnSalesTax\obj\Debug\net45\DealerOnSalesTax.exe
+C:\Users\Ajpic\source\repos\DealerOnSalesTax\DealerOnSalesTax\obj\Debug\net45\DealerOnSalesTax.pdb
